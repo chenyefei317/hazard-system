@@ -1,1 +1,8 @@
-streamlit>=1.30.0
+streamlit
+pandas
+numpy
+Pillow
+streamlit-drawable-canvas
+python-docx
+qrcode
+requests
